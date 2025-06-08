@@ -14,5 +14,5 @@ Move the Elegoo libraries plus the code from this repo into Arduino within a spe
   - The Elegoo libraries and the github code should be two subfolders of the robot
 
 Turn on the battery for the robot.
-Open the balancing_robot.ino code and compile it. Click the arrow to send it to the (connected via cable) robot.
+Open the balancing_robot.ino code and compile it (the checkmark in the upper left corner). Click the arrow to send it to the (connected via cable) robot.
 Press 'g' and the program will start working (from there you can press the specified letters to get teloperation).
